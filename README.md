@@ -4,8 +4,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" />
 </p>
 
-<br>
-
 <h1 align="center">CRUD de Cadastro de Pessoa com Java, Spring Boot e Docker</h1>
 
 <p align="center">
